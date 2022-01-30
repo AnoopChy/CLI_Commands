@@ -8,3 +8,7 @@
 ```js
   ls
 ```
+- Command for the change directory
+```js
+cd
+```
