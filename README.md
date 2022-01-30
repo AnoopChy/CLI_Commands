@@ -4,3 +4,7 @@
 ```js
   pwd
 ```
+- Command to see the files in current directory
+```js
+  ls
+```
