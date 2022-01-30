@@ -12,3 +12,21 @@
 ```js
 cd
 ```
+- Command for the remove directory
+```js
+rm
+```
+- Command for creat a new folder
+```js
+mkdir
+```
+- Commands for creat a new files
+```js
+touch
+```
+- Commands for print something
+```js
+echo
+```
+
+
