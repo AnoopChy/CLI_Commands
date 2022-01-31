@@ -28,5 +28,21 @@ touch
 ```js
 echo
 ```
+- To see the contects of the files
+```js
+cat
+```
+- Copy the files/folder from one place to another
+```js
+cp
+```
+- Cut the files/ foder from one place to another
+```js
+mv
+```
+### Interoduction to Javascript
+## What is Programing?
+
+
 
 
