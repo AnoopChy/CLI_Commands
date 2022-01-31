@@ -42,7 +42,10 @@ mv
 ```
 ### Interoduction to Javascript
 ## What is Programing?
-
+- Programing is the way to give instructions to a machine to get the reuired work done. The computer dosn't understand the local languages like we do. Machines understand the language which consists of 0 & 1. This language which consists of only 0's and 1 is called as the machine level language. The programing languages are divided into 2 types
+- High Level Language
+- Low Level Language
+ 
 
 
 
