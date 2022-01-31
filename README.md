@@ -67,5 +67,6 @@ undefined
 ```
 ##### what is sell??
 - The shell is a sort of a program which takes into input the keyboard commands and passes them onto operating system to carry out the required oprreations.
-
+#### what is bash ?
+- All linux distributions supply a shell program from the GNU Project called bash
 
